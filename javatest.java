@@ -22,6 +22,7 @@ public class Variable {
         System.out.print(price);
         System.out.println("円です。");
         # System.out.println("password = Passw0rd");
+        System.out.println("add");
  
     }
  
